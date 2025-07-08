@@ -1,2 +1,0 @@
-Hello, this is a dummy file.
-getting started with git.
